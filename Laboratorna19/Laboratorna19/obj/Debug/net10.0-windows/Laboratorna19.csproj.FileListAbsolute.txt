@@ -1,0 +1,16 @@
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\bin\Debug\net10.0-windows\Laboratorna19.exe
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\bin\Debug\net10.0-windows\Laboratorna19.deps.json
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\bin\Debug\net10.0-windows\Laboratorna19.runtimeconfig.json
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\bin\Debug\net10.0-windows\Laboratorna19.dll
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\bin\Debug\net10.0-windows\Laboratorna19.pdb
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.Form1.resources
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.dll
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\refint\Laboratorna19.dll
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.pdb
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\Laboratorna19.genruntimeconfig.cache
+C:\Users\Денис\source\repos\Laboratorna19\Laboratorna19\obj\Debug\net10.0-windows\ref\Laboratorna19.dll
