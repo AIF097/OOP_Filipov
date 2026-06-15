@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEWLCI2Ys9Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Денис\\source\\repos\\Laboratorna25\\Laboratorna25\\Laboratorna25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\system.data.oledb\\10.0.7\\system.data.oledb.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
