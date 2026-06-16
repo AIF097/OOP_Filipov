@@ -1,0 +1,16 @@
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\bin\Debug\net10.0-windows\Laboratorna27.exe
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\bin\Debug\net10.0-windows\Laboratorna27.deps.json
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\bin\Debug\net10.0-windows\Laboratorna27.runtimeconfig.json
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\bin\Debug\net10.0-windows\Laboratorna27.dll
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\bin\Debug\net10.0-windows\Laboratorna27.pdb
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.Form1.resources
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.dll
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\refint\Laboratorna27.dll
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.pdb
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\Laboratorna27.genruntimeconfig.cache
+C:\Users\Денис\source\repos\Laboratorna27\Laboratorna27\obj\Debug\net10.0-windows\ref\Laboratorna27.dll
